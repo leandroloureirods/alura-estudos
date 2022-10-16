@@ -3,5 +3,5 @@
 > Cursos em andamento : 
 
 ```
-Atualizado em 15/10/2022 12:35
+Atualizado em 16/10/2022 07:40
 ```
